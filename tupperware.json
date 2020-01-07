@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+"meteorInstall": "https://dev.tencent.com/u/fjj/p/meteor-install/git/raw/master/install.sh",
+	"nodeVersion": "4.8.0",
+    "phantomJs": false,
+    "imageMagick": false
+  },
+  "preBuildCommands": ["npm install"],
+  "postBuildCommands": [],
+  "buildOptions": {
+    "mobileServerUrl": false,
+    "additionalFlags": "--server-only --allow-superuser"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "public": {
+    "build": {
+      "version": "2.8.5",
+      "buildAt": "2016-08-05",
+      "svnVersion": "hello world",
+      "chinese": "中文测试"
+     }
+	}
+}

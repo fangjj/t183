@@ -1,7 +1,7 @@
 {
   "dependencies": {
 "meteorInstall": "https://dev.tencent.com/u/fjj/p/meteor-install/git/raw/master/install.sh",
-	"nodeVersion": "4.8.0",
+	"nodeVersion": "8.17.0",
     "phantomJs": false,
     "imageMagick": false
   },
